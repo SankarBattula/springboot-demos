@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/testclient/pom.xml" />
         <option value="$PROJECT_DIR$/demo-restclient/pom.xml" />
         <option value="$PROJECT_DIR$/demo-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/exceptions-validations/pom.xml" />
       </list>
     </option>
   </component>
