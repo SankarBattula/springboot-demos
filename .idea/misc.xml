@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/movieapp-mongo/pom.xml" />
         <option value="$PROJECT_DIR$/movieapp-dao/pom.xml" />
         <option value="$PROJECT_DIR$/movieapp-service/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-controllers/pom.xml" />
       </list>
     </option>
   </component>
