@@ -1,12 +1,25 @@
 package io.sb.exceptionsvalidations.dto;
 
+import io.sb.exceptionsvalidations.customValidator.CustomEmailValidator;
+
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Pattern;
+
 public class CustomerDTO {
 
     private int customerId;
+    @NotBlank(message = "First Name cannot be blank")
     private String firstName;
+    @NotBlank(message = "Last Name cannot be blank")
     private String lastName;
+    @NotBlank
+    @Pattern(regexp="(^[0-9]{10})", message = "Please enter a valid mobile no")
     private String primaryMobileNo;
+    @NotBlank
+    @Pattern(regexp="(^[0-9]{10})", message = "Please enter a valid alternate mobile no")
     private String alternateMobileNo;
+    @NotBlank
+    @CustomEmailValidator
     private String emailId;
     private String mainAddress;
     private String alternateAddress;
