@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-aop/demo-aop.iml" filepath="$PROJECT_DIR$/demo-aop/demo-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-controllers/demo-controllers.iml" filepath="$PROJECT_DIR$/demo-controllers/demo-controllers.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-restclient/demo-restclient.iml" filepath="$PROJECT_DIR$/demo-restclient/demo-restclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/movieapp-dao/movieapp-dao.iml" filepath="$PROJECT_DIR$/movieapp-dao/movieapp-dao.iml" />
