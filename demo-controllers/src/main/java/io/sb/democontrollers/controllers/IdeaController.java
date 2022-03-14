@@ -30,9 +30,9 @@ public class IdeaController {
 
     public IdeaController(){
         IdeaDTO ideaDTO1 = new IdeaDTO(121,"crazyIdea"
-                ,"this will make people crazy","Vishwa");
+                ,"this will make people crazy","Sankar");
         IdeaDTO ideaDTO2 = new IdeaDTO(122,"simpleIdea"
-                ,"this will not make people crazy","Mohan");
+                ,"this will not make people crazy","Battula");
         IDEA_MAP.put(ideaDTO1.getId(), ideaDTO1);
         IDEA_MAP.put(ideaDTO2.getId(), ideaDTO2);
     }

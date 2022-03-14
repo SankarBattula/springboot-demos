@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/movieapp-dao/pom.xml" />
         <option value="$PROJECT_DIR$/movieapp-service/pom.xml" />
         <option value="$PROJECT_DIR$/demo-controllers/pom.xml" />
+        <option value="$PROJECT_DIR$/webclient/pom.xml" />
+        <option value="$PROJECT_DIR$/testclient/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-restclient/pom.xml" />
       </list>
     </option>
   </component>
