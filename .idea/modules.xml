@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/movieapp-dao/movieapp-dao.iml" filepath="$PROJECT_DIR$/movieapp-dao/movieapp-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieapp-service/movieapp-service.iml" filepath="$PROJECT_DIR$/movieapp-service/movieapp-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-projects.iml" filepath="$PROJECT_DIR$/.idea/springboot-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+    </modules>
+  </component>
+</project>
