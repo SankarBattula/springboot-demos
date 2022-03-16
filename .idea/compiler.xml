@@ -13,6 +13,7 @@
         <module name="movieapp-service" />
         <module name="exceptions-validations" />
         <module name="movieapp-dao" />
+        <module name="demo-security" />
         <module name="demo-controllers" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="demo-aop" target="1.8" />
       <module name="demo-controllers" target="1.8" />
       <module name="demo-restclient" target="1.8" />
+      <module name="demo-security" target="1.8" />
       <module name="exceptions-validations" target="1.8" />
       <module name="movieapp-dao" target="1.8" />
       <module name="movieapp-entity" target="1.8" />
@@ -34,6 +36,7 @@
       <module name="demo-aop" options="-parameters" />
       <module name="demo-controllers" options="-parameters" />
       <module name="demo-restclient" options="-parameters" />
+      <module name="demo-security" options="-parameters" />
       <module name="exceptions-validations" options="-parameters" />
       <module name="movieapp-dao" options="-parameters" />
       <module name="movieapp-entity" options="-parameters" />
